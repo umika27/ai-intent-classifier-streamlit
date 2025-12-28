@@ -1,0 +1,89 @@
+text,label
+I feel sad,Personal
+I am feeling lonely lately,Personal
+I am anxious about exams,Personal
+I miss my friends,Personal
+I feel very happy today,Personal
+I had a fight with my parents,Personal
+I feel stressed and tired,Personal
+I am worried about my future,Personal
+I feel unmotivated,Personal
+I am heartbroken,Personal
+I feel so angry right now,Personal
+I feel nervous when speaking,Personal
+I feel depressed,Personal
+I am not okay,Personal
+I feel overwhelmed,Personal
+
+Explain Newton's laws of motion,Academic
+Define photosynthesis,Academic
+What is the Pythagorean theorem,Academic
+Explain the water cycle,Academic
+What is mitosis,Academic
+Define democracy,Academic
+Explain Ohm's law,Academic
+What is a research paper,Academic
+What is a hypothesis,Academic
+Explain plate tectonics theory,Academic
+Define gravity,Academic
+What is an atom,Academic
+Explain diffusion,Academic
+Explain refraction of light,Academic
+Define ecosystem,Academic
+
+Tell me a joke,Entertainment
+Recommend a comedy movie,Entertainment
+The movie was entertaining,Entertainment
+That song was amazing,Entertainment
+I love watching anime,Entertainment
+That performance was funny,Entertainment
+Recommend a thriller series,Entertainment
+Who is the best Marvel character,Entertainment
+I enjoyed the concert,Entertainment
+Suggest a good web series,Entertainment
+Tell me something funny,Entertainment
+That scene was hilarious,Entertainment
+I love cartoons,Entertainment
+Suggest romantic movies,Entertainment
+I enjoyed that show,Entertainment
+
+How do I fix a Python error,Technical
+What is machine learning,Technical
+Explain recursion in programming,Technical
+What is a database,Technical
+What is an API,Technical
+Explain cloud computing,Technical
+Difference between list and tuple in Python,Technical
+Explain time complexity,Technical
+What is artificial intelligence,Technical
+How do I deploy a website,Technical
+What is GitHub,Technical
+Explain TCP IP model,Technical
+How to solve runtime error,Technical
+What is operating system,Technical
+Explain neural networks,Technical
+
+What is the weather today,General
+What is your name,General
+Tell me something interesting,General
+How are you,General
+What time is it,General
+Where do you live,General
+Tell me a random fact,General
+How far is the moon,General
+What is time,General
+Why is the sky blue,General
+What is the meaning of life,General
+Tell me a short story,General
+What should I eat today,General
+What is your favorite color,General
+Do you like coffee,General
+
+My brother is annoying,General
+My dog is very cute,General
+My mom is beautiful,Personal
+My dad is funny,Personal
+My sister is silly,General
+He is acting like a monkey,Entertainment
+We had a family dinner,Personal
+I love my parents,Personal
