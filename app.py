@@ -4,7 +4,7 @@ from transformers import DistilBertTokenizerFast, DistilBertForSequenceClassific
 
 # --------------- Load model ---------------- #
 
-model_path = "intent_deep_model"
+model_path = "umika27/intent-intent-model"
 tokenizer = DistilBertTokenizerFast.from_pretrained(model_path)
 model = DistilBertForSequenceClassification.from_pretrained(model_path)
 id2label = model.config.id2label
