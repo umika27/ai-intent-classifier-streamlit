@@ -1,0 +1,5 @@
+streamlit
+transformers
+torch==2.2.0 --extra-index-url https://download.pytorch.org/whl/cpu
+pandas
+scikit-learn
